@@ -1,0 +1,869 @@
+this
+('_', 'is', 'the') : 1
+(',', 'so', '_') : 1
+('so', '_', 'is') : 1
+
+
+the
+('on', '_', 'head') : 1
+('this', 'is', '_') : 1
+('_', 'world', 'changed') : 1
+('be', '_', 'same') : 1
+('_', 'gravity', '.') : 1
+('changed', '.', '_') : 1
+('fell', 'on', '_') : 1
+('_', 'head', '.') : 1
+('is', '_', 'gravity') : 1
+('_', 'age', 'of') : 3
+('_', 'apple', 'up') : 1
+('he', 'picked', '_') : 1
+('of', '_', 'world') : 2
+('age', 'of', '_') : 2
+('picked', '_', 'apple') : 1
+('_', 'apple', 'was') : 1
+('how', '_', 'age') : 2
+('.', '_', 'age') : 1
+('is', 'how', '_') : 2
+('never', 'be', '_') : 1
+('_', 'world', 'would') : 1
+('_', 'same', '.') : 1
+
+
+head
+('the', '_', '.') : 1
+('_', '.', 'then') : 1
+('on', 'the', '_') : 1
+
+
+and
+('red', ',', '_') : 1
+('_', 'thought', ',') : 1
+(',', '_', 'it') : 1
+('up', '_', 'thought') : 1
+('_', 'it', 'fell') : 1
+('apple', 'up', '_') : 1
+
+
+of
+('the', 'age', '_') : 3
+('age', '_', 'modern') : 1
+('_', 'the', 'world') : 2
+('_', 'modern', 'physics') : 1
+('age', '_', 'the') : 2
+
+
+that
+('.', '_', 'is') : 2
+('_', 'is', 'how') : 2
+('began', '.', '_') : 1
+('gravity', '.', '_') : 1
+
+
+it
+(',', 'and', '_') : 1
+('_', 'fell', 'on') : 1
+('and', '_', 'fell') : 1
+
+
+would
+('the', 'world', '_') : 1
+('_', 'never', 'be') : 1
+('world', '_', 'never') : 1
+
+
+age
+('_', 'of', 'modern') : 1
+('_', 'of', 'the') : 2
+('the', '_', 'of') : 3
+('how', 'the', '_') : 2
+('.', 'the', '_') : 1
+
+
+physics
+('of', 'modern', '_') : 1
+('_', 'began', '.') : 1
+('modern', '_', 'began') : 1
+
+
+.
+('began', '_', 'that') : 1
+('the', 'same', '_') : 1
+('changed', '_', 'the') : 1
+('head', '_', 'then') : 1
+('the', 'head', '_') : 1
+('_', 'the', 'age') : 1
+('_', 'that', 'is') : 2
+('gravity', '_', 'that') : 1
+('world', 'changed', '_') : 1
+('_', 'then', 'he') : 1
+('physics', 'began', '_') : 1
+('the', 'gravity', '_') : 1
+
+
+picked
+('he', '_', 'the') : 1
+('_', 'the', 'apple') : 1
+('then', 'he', '_') : 1
+
+
+be
+('never', '_', 'the') : 1
+('_', 'the', 'same') : 1
+('would', 'never', '_') : 1
+
+
+was
+('_', 'red', ',') : 1
+('apple', '_', 'red') : 1
+('the', 'apple', '_') : 1
+
+
+huh
+(',', '_', ',') : 1
+('_', ',', 'so') : 1
+('thought', ',', '_') : 1
+
+
+so
+('huh', ',', '_') : 1
+(',', '_', 'this') : 1
+('_', 'this', 'is') : 1
+
+
+up
+('apple', '_', 'and') : 1
+('_', 'and', 'thought') : 1
+('the', 'apple', '_') : 1
+
+
+red
+('_', ',', 'and') : 1
+('apple', 'was', '_') : 1
+('was', '_', ',') : 1
+
+
+on
+('_', 'the', 'head') : 1
+('it', 'fell', '_') : 1
+('fell', '_', 'the') : 1
+
+
+,
+('thought', '_', 'huh') : 1
+('_', 'huh', ',') : 1
+(',', 'huh', '_') : 1
+('_', 'and', 'it') : 1
+('was', 'red', '_') : 1
+('red', '_', 'and') : 1
+('huh', '_', 'so') : 1
+('_', 'so', 'this') : 1
+('and', 'thought', '_') : 1
+
+
+changed
+('the', 'world', '_') : 1
+('world', '_', '.') : 1
+('_', '.', 'the') : 1
+
+
+how
+('_', 'the', 'age') : 2
+('is', '_', 'the') : 2
+('that', 'is', '_') : 2
+
+
+he
+('_', 'picked', 'the') : 1
+('then', '_', 'picked') : 1
+('.', 'then', '_') : 1
+
+
+world
+('_', 'would', 'never') : 1
+('of', 'the', '_') : 2
+('the', '_', 'changed') : 1
+('_', 'changed', '.') : 1
+('the', '_', 'would') : 1
+
+
+fell
+('and', 'it', '_') : 1
+('_', 'on', 'the') : 1
+('it', '_', 'on') : 1
+
+
+modern
+('_', 'physics', 'began') : 1
+('age', 'of', '_') : 1
+('of', '_', 'physics') : 1
+
+
+apple
+('_', 'was', 'red') : 1
+('the', '_', 'was') : 1
+('_', 'up', 'and') : 1
+('the', '_', 'up') : 1
+('picked', 'the', '_') : 1
+
+
+same
+('the', '_', '.') : 1
+('be', 'the', '_') : 1
+
+
+then
+('.', '_', 'he') : 1
+('_', 'he', 'picked') : 1
+('head', '.', '_') : 1
+
+
+never
+('would', '_', 'be') : 1
+('_', 'be', 'the') : 1
+('world', 'would', '_') : 1
+
+
+thought
+('and', '_', ',') : 1
+('_', ',', 'huh') : 1
+('up', 'and', '_') : 1
+
+
+gravity
+('the', '_', '.') : 1
+('_', '.', 'that') : 1
+('is', 'the', '_') : 1
+
+
+is
+('this', '_', 'the') : 1
+('so', 'this', '_') : 1
+('.', 'that', '_') : 2
+('_', 'how', 'the') : 2
+('_', 'the', 'gravity') : 1
+('that', '_', 'how') : 2
+
+
+began
+('_', '.', 'that') : 1
+('modern', 'physics', '_') : 1
+('physics', '_', '.') : 1
+
+
+
+
+
+
+('the', '_', '.')
+same : 1
+head : 1
+gravity : 1
+
+
+('would', 'never', '_')
+be : 1
+
+
+('_', ',', 'huh')
+thought : 1
+
+
+('head', '.', '_')
+then : 1
+
+
+('this', 'is', '_')
+the : 1
+
+
+('was', 'red', '_')
+, : 1
+
+
+('_', 'be', 'the')
+never : 1
+
+
+('_', '.', 'that')
+gravity : 1
+began : 1
+
+
+('_', 'it', 'fell')
+and : 1
+
+
+('_', 'never', 'be')
+would : 1
+
+
+('_', 'on', 'the')
+fell : 1
+
+
+('_', 'gravity', '.')
+the : 1
+
+
+('_', ',', 'and')
+red : 1
+
+
+('_', 'that', 'is')
+. : 2
+
+
+('_', 'and', 'it')
+, : 1
+
+
+('world', 'changed', '_')
+. : 1
+
+
+('_', 'was', 'red')
+apple : 1
+
+
+('he', '_', 'the')
+picked : 1
+
+
+('_', 'the', 'world')
+of : 2
+
+
+('_', 'then', 'he')
+. : 1
+
+
+('world', '_', 'never')
+would : 1
+
+
+('modern', 'physics', '_')
+began : 1
+
+
+('_', 'the', 'age')
+. : 1
+how : 2
+
+
+('_', 'age', 'of')
+the : 3
+
+
+('apple', 'was', '_')
+red : 1
+
+
+('_', 'picked', 'the')
+he : 1
+
+
+('age', 'of', '_')
+the : 2
+modern : 1
+
+
+('modern', '_', 'began')
+physics : 1
+
+
+(',', 'and', '_')
+it : 1
+
+
+('picked', 'the', '_')
+apple : 1
+
+
+('_', 'apple', 'was')
+the : 1
+
+
+('never', 'be', '_')
+the : 1
+
+
+('_', 'red', ',')
+was : 1
+
+
+('is', '_', 'gravity')
+the : 1
+
+
+('_', 'and', 'thought')
+up : 1
+
+
+('_', '.', 'then')
+head : 1
+
+
+('the', '_', 'up')
+apple : 1
+
+
+('began', '_', 'that')
+. : 1
+
+
+('he', 'picked', '_')
+the : 1
+
+
+('on', '_', 'head')
+the : 1
+
+
+('_', 'modern', 'physics')
+of : 1
+
+
+('on', 'the', '_')
+head : 1
+
+
+('fell', '_', 'the')
+on : 1
+
+
+('be', '_', 'same')
+the : 1
+
+
+('head', '_', 'then')
+. : 1
+
+
+('the', '_', 'would')
+world : 1
+
+
+('huh', ',', '_')
+so : 1
+
+
+('of', '_', 'world')
+the : 2
+
+
+('the', '_', 'of')
+age : 3
+
+
+('apple', '_', 'and')
+up : 1
+
+
+('up', '_', 'thought')
+and : 1
+
+
+('_', 'the', 'head')
+on : 1
+
+
+('is', '_', 'the')
+how : 2
+
+
+('would', '_', 'be')
+never : 1
+
+
+('changed', '.', '_')
+the : 1
+
+
+('fell', 'on', '_')
+the : 1
+
+
+('so', 'this', '_')
+is : 1
+
+
+('_', 'fell', 'on')
+it : 1
+
+
+('the', 'apple', '_')
+was : 1
+up : 1
+
+
+('of', 'modern', '_')
+physics : 1
+
+
+('_', 'is', 'how')
+that : 2
+
+
+('then', 'he', '_')
+picked : 1
+
+
+('_', 'of', 'modern')
+age : 1
+
+
+('thought', ',', '_')
+huh : 1
+
+
+('up', 'and', '_')
+thought : 1
+
+
+('red', '_', 'and')
+, : 1
+
+
+('so', '_', 'is')
+this : 1
+
+
+('huh', '_', 'so')
+, : 1
+
+
+('apple', '_', 'red')
+was : 1
+
+
+('was', '_', ',')
+red : 1
+
+
+('_', '.', 'the')
+changed : 1
+
+
+('_', 'up', 'and')
+apple : 1
+
+
+('thought', '_', 'huh')
+, : 1
+
+
+('_', 'so', 'this')
+, : 1
+
+
+('the', '_', 'changed')
+world : 1
+
+
+('_', 'this', 'is')
+so : 1
+
+
+('_', 'world', 'changed')
+the : 1
+
+
+('_', 'of', 'the')
+age : 2
+
+
+('the', 'world', '_')
+changed : 1
+would : 1
+
+
+('red', ',', '_')
+and : 1
+
+
+('be', 'the', '_')
+same : 1
+
+
+('_', ',', 'so')
+huh : 1
+
+
+('_', 'thought', ',')
+and : 1
+
+
+('physics', '_', '.')
+began : 1
+
+
+(',', 'so', '_')
+this : 1
+
+
+('the', 'head', '_')
+. : 1
+
+
+('and', 'thought', '_')
+, : 1
+
+
+('_', 'would', 'never')
+world : 1
+
+
+('the', 'age', '_')
+of : 3
+
+
+('_', 'he', 'picked')
+then : 1
+
+
+('_', 'the', 'apple')
+picked : 1
+
+
+('the', '_', 'was')
+apple : 1
+
+
+('gravity', '.', '_')
+that : 1
+
+
+('of', 'the', '_')
+world : 2
+
+
+('changed', '_', 'the')
+. : 1
+
+
+('that', '_', 'how')
+is : 2
+
+
+('_', 'the', 'gravity')
+is : 1
+
+
+('age', '_', 'modern')
+of : 1
+
+
+('_', 'physics', 'began')
+modern : 1
+
+
+('_', 'apple', 'up')
+the : 1
+
+
+(',', 'huh', '_')
+, : 1
+
+
+('.', '_', 'age')
+the : 1
+
+
+('_', 'how', 'the')
+is : 2
+
+
+('_', 'world', 'would')
+the : 1
+
+
+('apple', 'up', '_')
+and : 1
+
+
+('physics', 'began', '_')
+. : 1
+
+
+('.', '_', 'is')
+that : 2
+
+
+('_', 'the', 'same')
+be : 1
+
+
+('it', 'fell', '_')
+on : 1
+
+
+('.', 'that', '_')
+is : 2
+
+
+('began', '.', '_')
+that : 1
+
+
+('the', 'same', '_')
+. : 1
+
+
+(',', '_', ',')
+huh : 1
+
+
+('then', '_', 'picked')
+he : 1
+
+
+('age', '_', 'the')
+of : 2
+
+
+(',', '_', 'this')
+so : 1
+
+
+('.', '_', 'he')
+then : 1
+
+
+('_', 'same', '.')
+the : 1
+
+
+('is', 'how', '_')
+the : 2
+
+
+('.', 'the', '_')
+age : 1
+
+
+('how', 'the', '_')
+age : 2
+
+
+('and', '_', 'fell')
+it : 1
+
+
+('_', 'head', '.')
+the : 1
+
+
+('world', '_', '.')
+changed : 1
+
+
+(',', '_', 'it')
+and : 1
+
+
+('the', 'gravity', '_')
+. : 1
+
+
+('and', 'it', '_')
+fell : 1
+
+
+('this', '_', 'the')
+is : 1
+
+
+('_', 'began', '.')
+physics : 1
+
+
+('_', 'is', 'the')
+this : 1
+
+
+('that', 'is', '_')
+how : 2
+
+
+('world', 'would', '_')
+never : 1
+
+
+('never', '_', 'the')
+be : 1
+
+
+('and', '_', ',')
+thought : 1
+
+
+('picked', '_', 'apple')
+the : 1
+
+
+('is', 'the', '_')
+gravity : 1
+
+
+('it', '_', 'on')
+fell : 1
+
+
+('_', 'huh', ',')
+, : 1
+
+
+('how', '_', 'age')
+the : 2
+
+
+('gravity', '_', 'that')
+. : 1
+
+
+('_', 'changed', '.')
+world : 1
+
+
+('of', '_', 'physics')
+modern : 1
+
+
+('.', 'then', '_')
+he : 1
+
+
+this : 1
+the : 10
+head : 1
+and : 2
+of : 3
+that : 2
+it : 1
+would : 1
+age : 3
+physics : 1
+. : 5
+picked : 1
+be : 1
+was : 1
+huh : 1
+so : 1
+up : 1
+red : 1
+on : 1
+, : 3
+changed : 1
+how : 2
+he : 1
+world : 2
+fell : 1
+modern : 1
+apple : 2
+same : 1
+then : 1
+never : 1
+thought : 1
+gravity : 1
+is : 3
+began : 1
